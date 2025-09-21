@@ -43,3 +43,4 @@ confia
 
 ## Conclusão
 Este projeto é um exemplo prático de como criar um aplicativo Android simples que interage com o sistema de arquivos de forma controlada. Ele pode ser expandido para incluir novas funcionalidades, como criação de pastas, cópia de arquivos ou outros experimentos educativos no Android. confia
+##baixe agora para enganar seu amigo
